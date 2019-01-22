@@ -1,0 +1,67 @@
+body{
+    background: grey
+}
+
+/* .card{ 
+    width: 50%
+}*/
+
+#myNav{ 
+    position: absolute, top
+}
+
+.loginForm{
+    margin-top: 100px
+}
+
+.loginInput{
+    width: 300px;
+    margin: 50px auto;
+    margin-top: 10%;
+    height: 350px;
+    background: gray;
+    border: solid 10px whitesmoke;
+    border-radius: 20px 0px 20px 0px;
+}
+
+
+/*The login page styling begins here
+and continues downwards*/
+/*.container{
+    padding: 30px;
+    height: 100%;
+    background: whitesmoke;
+    color: black;
+    margin: 30 auto;
+    position: relative;
+    top: 20%
+}*/
+#emailInput{
+    width: 100%
+}
+
+#passwordInput{
+    width: 100%
+}
+
+
+
+
+
+.signUpDetails{
+    width: 300px;
+    margin: 50px auto;
+    margin-top: 10%;
+    height: 350px;
+    background: grey;
+    border: solid 10px whitesmoke;
+    border-radius: 20px 0px 20px 0px;
+}
+
+#State{
+    width: 100%
+}
+
+#passRe{
+    width: 100%
+}
